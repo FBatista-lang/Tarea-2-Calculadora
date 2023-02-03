@@ -1,3 +1,3 @@
-Mi Tarea numero 1, Html con presentacion de mi usando css
+Mi Tarea numero 2, Calculadora hecha con HTML,CSS Y JavaScript
 captura
 ![Mi Captura de pantalla](/img/Capture.PNG)
