@@ -1,0 +1,48 @@
+package Animal;
+import java.util.Scanner;
+
+public class Animal {
+    String especie,lugar,tipo;
+    int edad;
+    
+   Scanner to = new Scanner(System.in);
+
+
+    public Animal(String especie, String lugar, String tipo, int edad) {
+        this.especie = especie;
+        this.lugar = lugar;
+        this.tipo = tipo;
+        this.edad = edad;
+        
+        
+        
+       
+        
+    }
+
+    public String getEspecie() {
+        return especie;
+    }
+
+    public String getLugar() {
+        return lugar;
+    }
+
+    public String getTipo() {
+        return tipo;
+    }
+
+    public int getEdad() {
+        return edad;
+    }
+
+    public Scanner getTo() {
+        return to;
+    }
+    
+   public static void main(String[]args){
+   Animal ani1 = new Animal("Chiguawa","Mexico", "Carnivoro",5 );
+   System.out.println("Su animal es " + ani1.getEspecie() + " viene de " + ani1.getLugar() + " es "+ ani1.getTipo() + " y tiene " + ani1.getEdad() + " años ");
+   
+   }
+}

@@ -1,0 +1,28 @@
+2022-12-25 13:53:18.3843|INFO|DS4Windows version 3.1.12
+2022-12-25 13:53:18.3843|INFO|DS4Windows exe file: DS4Windows.exe
+2022-12-25 13:53:18.3843|INFO|DS4Windows Assembly Architecture: x64
+2022-12-25 13:53:18.3843|INFO|OS Version: Microsoft Windows NT 10.0.19044.0
+2022-12-25 13:53:18.3843|INFO|OS Product Name: Windows 10 Pro
+2022-12-25 13:53:18.3843|INFO|OS Release ID: 2009
+2022-12-25 13:53:18.3843|INFO|System Architecture: x64
+2022-12-25 13:53:18.3843|INFO|Logger created
+2022-12-25 13:53:18.5478|INFO|LinkedProfiles.xml can't be found.
+2022-12-25 13:53:19.7569|INFO|Running as User
+2022-12-25 13:53:19.7569|INFO|Some applications may block controller inputs. (Windows UAC Conflictions). Please go to https://docs.ds4windows.app/troubleshooting/kb-mouse-issues/#windows-not-responding-to-ds4ws-kb-m-commands-in-some-situations for more information and workarounds.
+2022-12-25 13:53:20.8128|INFO|Starting...
+2022-12-25 13:53:20.8128|INFO|Using output KB+M handler: SendInput
+2022-12-25 13:53:20.8128|INFO|Connection to ViGEmBus 1.21.442.0 established
+2022-12-25 13:53:20.8128|INFO|Searching for controllers...
+2022-12-25 13:53:20.8128|INFO|Using Shared Mode
+2022-12-25 13:53:20.9245|INFO|Found Controller: A4:53:85:15:BF:08 (BT) (DS4 v.2).
+2022-12-25 13:53:22.0204|WARN|ViGEm Device Plugin Failed. Likely an internal ViGEmBus problem. Closing connection. If the issue persists, please close DS4Windows and then reboot Windows.
+2022-12-25 13:53:22.0204|INFO|Stopping Virtual Output Controllers
+2022-12-25 13:53:22.0204|INFO|Closing connection to ViGEmBus
+2022-12-25 13:53:22.0830|INFO|Stopping DS4 Input Controllers
+2022-12-25 13:53:22.0830|INFO|Stopped DS4Windows
+2022-12-25 13:53:24.5893|INFO|Starting...
+2022-12-25 13:53:24.5893|INFO|Using output KB+M handler: SendInput
+2022-12-25 13:53:24.5893|INFO|Connection to ViGEmBus 1.21.442.0 established
+2022-12-25 13:53:24.5893|INFO|Searching for controllers...
+2022-12-25 13:53:24.5893|INFO|Using Shared Mode
+2022-12-25 13:53:50.0434|INFO|Request App Shutdown

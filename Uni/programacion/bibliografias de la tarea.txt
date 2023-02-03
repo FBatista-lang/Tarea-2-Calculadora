@@ -1,0 +1,28 @@
+bibliografias
+https://platzi.com/blog/que-es-arquitectura-de-software/ (definicion)
+
+https://es.wikipedia.org/wiki/Arquitectura_de_software#Breve_rese%C3%B1a_hist%C3%B3rica(definicion) (tipos)
+
+https://1library.co/document/y69m9j4y-breve-historia-de-la-arquitectura-de-software.html (historia)
+
+https://ri.conicet.gov.ar/handle/11336/6898#:~:text=La%20evoluci%C3%B3n%20de%20arquitecturas%20de%20software%20es%20consecuencia,requerimientos%2C%20o%20mejoras%20en%20la%20infraestructura%2Ftecnolog%C3%ADa%20del%20sistema.(evolucion)
+
+https://www.voigtmann.de/es/desarrollo-de-software/arquitectura-de-software/#:~:text=Caracter%C3%ADsticas%20de%20una%20arquitectura%20de%20software%20exitosa&text=Factores%20importantes%20que%20influyen%20la,de%20calidad%20y%20los%20requerimientos.(caracteristicas)
+
+https://www.michaelpage.es/advice/profesi%C3%B3n/tecnolog%C3%ADa/perfil-de-arquitecto-de-software#:~:text=El%20Arquitecto%20de%20Software%20tiene,la%20direcci%C3%B3n%20de%20la%20compa%C3%B1%C3%ADa.(roles)
+
+
+
+
+https://vegagestion.es/la-infraestructura-tecnologica-definicion-tipos-e-importancia/ (definicion y caracteristicas)
+https://www.ibm.com/es-es/topics/infrastructure(tipos)
+cavsi.com(Origen)
+scrib.com(evolucion)
+https://www.freelancermap.com/blog/es/que-hace-gerente-infraestructura/#Funciones(funciones)
+
+
+
+
+imetoast.com(evolucion patrones de diseño)
+https://www.fabriqadigital.com/la-importancia-de-los-patrones-de-diseno-software/(tipos)
+https://profile.es/blog/patrones-de-diseno-de-software/#%C2%BFQue_son_los_patrones_de_diseno_design_patterns(definicion, historia)

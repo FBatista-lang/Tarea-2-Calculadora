@@ -1,0 +1,10 @@
+nombre del proyecto. proyectol_db
+formulario.usuarios
+carpeta de fondo.fondo
+
+
+boton uno del form usuarios: binicia
+el boton dos del form usuarios:bregistra
+el boton 3 del form usuarios: bsalir
+primer texfild de form usuarios: F_usuarios1
+2 fild de contrasña se llama: fu_password

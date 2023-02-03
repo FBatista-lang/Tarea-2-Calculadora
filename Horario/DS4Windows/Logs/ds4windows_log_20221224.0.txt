@@ -1,0 +1,27 @@
+2022-12-24 17:54:53.3133|INFO|DS4Windows version 3.1.11
+2022-12-24 17:54:53.3164|INFO|DS4Windows exe file: DS4Windows.exe
+2022-12-24 17:54:53.3164|INFO|DS4Windows Assembly Architecture: x64
+2022-12-24 17:54:53.3164|INFO|OS Version: Microsoft Windows NT 10.0.19044.0
+2022-12-24 17:54:53.3164|INFO|OS Product Name: Windows 10 Pro
+2022-12-24 17:54:53.3164|INFO|OS Release ID: 2009
+2022-12-24 17:54:53.3164|INFO|System Architecture: x64
+2022-12-24 17:54:53.3164|INFO|Logger created
+2022-12-24 17:54:53.4837|INFO|LinkedProfiles.xml can't be found.
+2022-12-24 17:54:54.7337|INFO|Running as User
+2022-12-24 17:54:54.7337|INFO|Some applications may block controller inputs. (Windows UAC Conflictions). Please go to https://docs.ds4windows.app/troubleshooting/kb-mouse-issues/#windows-not-responding-to-ds4ws-kb-m-commands-in-some-situations for more information and workarounds.
+2022-12-24 17:54:55.8010|INFO|Starting...
+2022-12-24 17:54:55.8010|INFO|Using output KB+M handler: SendInput
+2022-12-24 17:54:55.8010|INFO|Connection to ViGEmBus 1.21.442.0 established
+2022-12-24 17:54:55.8010|INFO|Searching for controllers...
+2022-12-24 17:54:55.8010|INFO|Using Shared Mode
+2022-12-24 17:54:55.9480|INFO|Found Controller: A4:53:85:15:BF:08 (BT) (DS4 v.2).
+2022-12-24 17:54:56.3088|INFO|Plugging in virtual X360 controller (XInput slot #1) in output slot #1
+2022-12-24 17:54:56.3088|INFO|Associated input controller #1 (DS4 v.2) to virtual X360 Controller in output slot #1
+2022-12-24 17:54:56.3288|INFO|Controller 1 is using Profile "Default". Battery level is 62%
+2022-12-24 17:54:58.3050|INFO|Request App Shutdown
+2022-12-24 17:54:58.3050|INFO|Stopping Virtual Output Controllers
+2022-12-24 17:54:58.3050|INFO|Closing connection to ViGEmBus
+2022-12-24 17:54:58.3674|INFO|Disassociated virtual X360 Controller in output slot #1 from input controller #1 (DS4 v.2)
+2022-12-24 17:54:58.3674|INFO|Unplugging virtual X360 Controller from output slot #1
+2022-12-24 17:54:58.3674|INFO|Stopping DS4 Input Controllers
+2022-12-24 17:54:58.3674|INFO|Stopped DS4Windows

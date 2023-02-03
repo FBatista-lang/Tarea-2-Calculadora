@@ -1,0 +1,10 @@
+package com.mycompany.persona;
+
+
+public class Main {
+    public static void main(String[] args) {
+        Persona p1 = new Persona("Emmanuel Aaron", 22, "Popa Campusano", "Masculino");
+        
+        p1.mostrarDatos();
+    }
+}

@@ -1,0 +1,184 @@
+2022-12-24 17:55:05.2692|INFO|DS4Windows version 3.1.12
+2022-12-24 17:55:05.2724|INFO|DS4Windows exe file: DS4Windows.exe
+2022-12-24 17:55:05.2724|INFO|DS4Windows Assembly Architecture: x64
+2022-12-24 17:55:05.2724|INFO|OS Version: Microsoft Windows NT 10.0.19044.0
+2022-12-24 17:55:05.2724|INFO|OS Product Name: Windows 10 Pro
+2022-12-24 17:55:05.2724|INFO|OS Release ID: 2009
+2022-12-24 17:55:05.2724|INFO|System Architecture: x64
+2022-12-24 17:55:05.2724|INFO|Logger created
+2022-12-24 17:55:05.3086|INFO|LinkedProfiles.xml can't be found.
+2022-12-24 17:55:05.9972|INFO|Running as User
+2022-12-24 17:55:05.9972|INFO|Some applications may block controller inputs. (Windows UAC Conflictions). Please go to https://docs.ds4windows.app/troubleshooting/kb-mouse-issues/#windows-not-responding-to-ds4ws-kb-m-commands-in-some-situations for more information and workarounds.
+2022-12-24 17:55:07.0129|INFO|Starting...
+2022-12-24 17:55:07.0129|INFO|Using output KB+M handler: SendInput
+2022-12-24 17:55:07.0129|INFO|Connection to ViGEmBus 1.21.442.0 established
+2022-12-24 17:55:07.0129|INFO|Searching for controllers...
+2022-12-24 17:55:07.0129|INFO|Using Shared Mode
+2022-12-24 17:55:07.0754|INFO|Found Controller: A4:53:85:15:BF:08 (BT) (DS4 v.2).
+2022-12-24 17:55:07.4439|INFO|Plugging in virtual X360 controller (XInput slot #1) in output slot #1
+2022-12-24 17:55:07.4439|INFO|Associated input controller #1 (DS4 v.2) to virtual X360 Controller in output slot #1
+2022-12-24 17:55:07.4638|INFO|Controller 1 is using Profile "Default". Battery level is 62%
+2022-12-24 17:58:43.6291|INFO|Found Controller: 06:6F:18:10:63:25 (BT) (Switch Pro).
+2022-12-24 17:58:43.8884|INFO|Plugging in virtual X360 controller (XInput slot #2) in output slot #2
+2022-12-24 17:58:43.8884|INFO|Associated input controller #2 (Switch Pro) to virtual X360 Controller in output slot #2
+2022-12-24 18:00:07.1588|INFO|Disassociated virtual X360 Controller in output slot #2 from input controller #2 (Switch Pro)
+2022-12-24 18:00:07.1604|INFO|Unplugging virtual X360 Controller from output slot #2
+2022-12-24 18:00:07.1604|INFO|Controller 2 was removed or lost connection. Charge the battery
+2022-12-24 18:00:09.1779|INFO|Found Controller: 06:6F:18:10:63:25 (BT) (Switch Pro).
+2022-12-24 18:00:09.4318|INFO|Plugging in virtual X360 controller (XInput slot #2) in output slot #2
+2022-12-24 18:00:09.4318|INFO|Associated input controller #2 (Switch Pro) to virtual X360 Controller in output slot #2
+2022-12-24 18:01:35.4240|INFO|Disassociated virtual X360 Controller in output slot #2 from input controller #2 (Switch Pro)
+2022-12-24 18:01:35.4240|INFO|Unplugging virtual X360 Controller from output slot #2
+2022-12-24 18:01:35.4240|INFO|Controller 2 was removed or lost connection. Charge the battery
+2022-12-24 18:01:37.4397|INFO|Found Controller: 06:6F:18:10:63:25 (BT) (Switch Pro).
+2022-12-24 18:01:37.6936|INFO|Plugging in virtual X360 controller (XInput slot #2) in output slot #2
+2022-12-24 18:01:37.6936|INFO|Associated input controller #2 (Switch Pro) to virtual X360 Controller in output slot #2
+2022-12-24 18:03:00.9031|INFO|Disassociated virtual X360 Controller in output slot #2 from input controller #2 (Switch Pro)
+2022-12-24 18:03:00.9031|INFO|Unplugging virtual X360 Controller from output slot #2
+2022-12-24 18:03:00.9031|INFO|Controller 2 was removed or lost connection. Charge the battery
+2022-12-24 18:03:02.9126|INFO|Found Controller: 06:6F:18:10:63:25 (BT) (Switch Pro).
+2022-12-24 18:03:03.1658|INFO|Plugging in virtual X360 controller (XInput slot #2) in output slot #2
+2022-12-24 18:03:03.1658|INFO|Associated input controller #2 (Switch Pro) to virtual X360 Controller in output slot #2
+2022-12-24 18:04:29.4543|INFO|Disassociated virtual X360 Controller in output slot #2 from input controller #2 (Switch Pro)
+2022-12-24 18:04:29.4543|INFO|Unplugging virtual X360 Controller from output slot #2
+2022-12-24 18:04:29.4543|INFO|Controller 2 was removed or lost connection. Charge the battery
+2022-12-24 18:04:31.4682|INFO|Found Controller: 06:6F:18:10:63:25 (BT) (Switch Pro).
+2022-12-24 18:04:31.7221|INFO|Plugging in virtual X360 controller (XInput slot #2) in output slot #2
+2022-12-24 18:04:31.7221|INFO|Associated input controller #2 (Switch Pro) to virtual X360 Controller in output slot #2
+2022-12-24 18:05:54.9273|INFO|Disassociated virtual X360 Controller in output slot #2 from input controller #2 (Switch Pro)
+2022-12-24 18:05:54.9273|INFO|Unplugging virtual X360 Controller from output slot #2
+2022-12-24 18:05:54.9273|INFO|Controller 2 was removed or lost connection. Charge the battery
+2022-12-24 18:05:56.9367|INFO|Found Controller: 06:6F:18:10:63:25 (BT) (Switch Pro).
+2022-12-24 18:05:57.1904|INFO|Plugging in virtual X360 controller (XInput slot #2) in output slot #2
+2022-12-24 18:05:57.1904|INFO|Associated input controller #2 (Switch Pro) to virtual X360 Controller in output slot #2
+2022-12-24 18:07:23.4110|INFO|Disassociated virtual X360 Controller in output slot #2 from input controller #2 (Switch Pro)
+2022-12-24 18:07:23.4110|INFO|Unplugging virtual X360 Controller from output slot #2
+2022-12-24 18:07:23.4110|INFO|Controller 2 was removed or lost connection. Charge the battery
+2022-12-24 18:07:25.4246|INFO|Found Controller: 06:6F:18:10:63:25 (BT) (Switch Pro).
+2022-12-24 18:07:25.6781|INFO|Plugging in virtual X360 controller (XInput slot #2) in output slot #2
+2022-12-24 18:07:25.6781|INFO|Associated input controller #2 (Switch Pro) to virtual X360 Controller in output slot #2
+2022-12-24 18:08:48.7349|INFO|Disassociated virtual X360 Controller in output slot #2 from input controller #2 (Switch Pro)
+2022-12-24 18:08:48.7349|INFO|Unplugging virtual X360 Controller from output slot #2
+2022-12-24 18:08:48.7349|INFO|Controller 2 was removed or lost connection. Charge the battery
+2022-12-24 18:08:50.7527|INFO|Found Controller: 06:6F:18:10:63:25 (BT) (Switch Pro).
+2022-12-24 18:08:51.0061|INFO|Plugging in virtual X360 controller (XInput slot #2) in output slot #2
+2022-12-24 18:08:51.0061|INFO|Associated input controller #2 (Switch Pro) to virtual X360 Controller in output slot #2
+2022-12-24 18:10:17.2152|INFO|Disassociated virtual X360 Controller in output slot #2 from input controller #2 (Switch Pro)
+2022-12-24 18:10:17.2152|INFO|Unplugging virtual X360 Controller from output slot #2
+2022-12-24 18:10:17.2152|INFO|Controller 2 was removed or lost connection. Charge the battery
+2022-12-24 18:10:19.2288|INFO|Found Controller: 06:6F:18:10:63:25 (BT) (Switch Pro).
+2022-12-24 18:10:19.4822|INFO|Plugging in virtual X360 controller (XInput slot #2) in output slot #2
+2022-12-24 18:10:19.4822|INFO|Associated input controller #2 (Switch Pro) to virtual X360 Controller in output slot #2
+2022-12-24 18:11:45.4670|INFO|Disassociated virtual X360 Controller in output slot #2 from input controller #2 (Switch Pro)
+2022-12-24 18:11:45.4670|INFO|Unplugging virtual X360 Controller from output slot #2
+2022-12-24 18:11:45.4670|INFO|Controller 2 was removed or lost connection. Charge the battery
+2022-12-24 18:11:47.4766|INFO|Found Controller: 06:6F:18:10:63:25 (BT) (Switch Pro).
+2022-12-24 18:11:47.7304|INFO|Plugging in virtual X360 controller (XInput slot #2) in output slot #2
+2022-12-24 18:11:47.7304|INFO|Associated input controller #2 (Switch Pro) to virtual X360 Controller in output slot #2
+2022-12-24 18:13:13.8230|INFO|Disassociated virtual X360 Controller in output slot #2 from input controller #2 (Switch Pro)
+2022-12-24 18:13:13.8230|INFO|Unplugging virtual X360 Controller from output slot #2
+2022-12-24 18:13:13.8230|INFO|Controller 2 was removed or lost connection. Charge the battery
+2022-12-24 18:13:15.8372|INFO|Found Controller: 06:6F:18:10:63:25 (BT) (Switch Pro).
+2022-12-24 18:13:16.0905|INFO|Plugging in virtual X360 controller (XInput slot #2) in output slot #2
+2022-12-24 18:13:16.0905|INFO|Associated input controller #2 (Switch Pro) to virtual X360 Controller in output slot #2
+2022-12-24 18:14:39.2970|INFO|Disassociated virtual X360 Controller in output slot #2 from input controller #2 (Switch Pro)
+2022-12-24 18:14:39.2970|INFO|Unplugging virtual X360 Controller from output slot #2
+2022-12-24 18:14:39.2970|INFO|Controller 2 was removed or lost connection. Charge the battery
+2022-12-24 18:14:41.3051|INFO|Found Controller: 06:6F:18:10:63:25 (BT) (Switch Pro).
+2022-12-24 18:14:41.5590|INFO|Plugging in virtual X360 controller (XInput slot #2) in output slot #2
+2022-12-24 18:14:41.5590|INFO|Associated input controller #2 (Switch Pro) to virtual X360 Controller in output slot #2
+2022-12-24 18:16:07.6507|INFO|Disassociated virtual X360 Controller in output slot #2 from input controller #2 (Switch Pro)
+2022-12-24 18:16:07.6507|INFO|Unplugging virtual X360 Controller from output slot #2
+2022-12-24 18:16:07.6507|INFO|Controller 2 was removed or lost connection. Charge the battery
+2022-12-24 18:16:09.7341|INFO|Found Controller: 06:6F:18:10:63:25 (BT) (Switch Pro).
+2022-12-24 18:16:10.0027|INFO|Plugging in virtual X360 controller (XInput slot #2) in output slot #2
+2022-12-24 18:16:10.0027|INFO|Associated input controller #2 (Switch Pro) to virtual X360 Controller in output slot #2
+2022-12-24 18:17:32.9972|INFO|Disassociated virtual X360 Controller in output slot #2 from input controller #2 (Switch Pro)
+2022-12-24 18:17:32.9972|INFO|Unplugging virtual X360 Controller from output slot #2
+2022-12-24 18:17:32.9972|INFO|Controller 2 was removed or lost connection. Charge the battery
+2022-12-24 18:17:35.0115|INFO|Found Controller: 06:6F:18:10:63:25 (BT) (Switch Pro).
+2022-12-24 18:17:35.2652|INFO|Plugging in virtual X360 controller (XInput slot #2) in output slot #2
+2022-12-24 18:17:35.2652|INFO|Associated input controller #2 (Switch Pro) to virtual X360 Controller in output slot #2
+2022-12-24 18:18:58.4563|INFO|Disassociated virtual X360 Controller in output slot #2 from input controller #2 (Switch Pro)
+2022-12-24 18:18:58.4563|INFO|Unplugging virtual X360 Controller from output slot #2
+2022-12-24 18:18:58.4563|INFO|Controller 2 was removed or lost connection. Charge the battery
+2022-12-24 18:19:00.6903|INFO|Found Controller: 06:6F:18:10:63:25 (BT) (Switch Pro).
+2022-12-24 18:19:00.9429|INFO|Plugging in virtual X360 controller (XInput slot #2) in output slot #2
+2022-12-24 18:19:00.9429|INFO|Associated input controller #2 (Switch Pro) to virtual X360 Controller in output slot #2
+2022-12-24 18:20:29.7176|INFO|Disassociated virtual X360 Controller in output slot #2 from input controller #2 (Switch Pro)
+2022-12-24 18:20:29.7176|INFO|Unplugging virtual X360 Controller from output slot #2
+2022-12-24 18:20:29.7176|INFO|Controller 2 was removed or lost connection. Charge the battery
+2022-12-24 18:20:31.7305|INFO|Found Controller: 06:6F:18:10:63:25 (BT) (Switch Pro).
+2022-12-24 18:20:31.9841|INFO|Plugging in virtual X360 controller (XInput slot #2) in output slot #2
+2022-12-24 18:20:31.9841|INFO|Associated input controller #2 (Switch Pro) to virtual X360 Controller in output slot #2
+2022-12-24 18:21:55.0941|INFO|Disassociated virtual X360 Controller in output slot #2 from input controller #2 (Switch Pro)
+2022-12-24 18:21:55.0941|INFO|Unplugging virtual X360 Controller from output slot #2
+2022-12-24 18:21:55.0941|INFO|Controller 2 was removed or lost connection. Charge the battery
+2022-12-24 18:21:57.2875|INFO|Found Controller: 06:6F:18:10:63:25 (BT) (Switch Pro).
+2022-12-24 18:21:57.6299|INFO|Plugging in virtual X360 controller (XInput slot #2) in output slot #2
+2022-12-24 18:21:57.6299|INFO|Associated input controller #2 (Switch Pro) to virtual X360 Controller in output slot #2
+2022-12-24 18:23:23.6332|INFO|Disassociated virtual X360 Controller in output slot #2 from input controller #2 (Switch Pro)
+2022-12-24 18:23:23.6332|INFO|Unplugging virtual X360 Controller from output slot #2
+2022-12-24 18:23:23.6332|INFO|Controller 2 was removed or lost connection. Charge the battery
+2022-12-24 18:23:25.6474|INFO|Found Controller: 06:6F:18:10:63:25 (BT) (Switch Pro).
+2022-12-24 18:23:25.9008|INFO|Plugging in virtual X360 controller (XInput slot #2) in output slot #2
+2022-12-24 18:23:25.9008|INFO|Associated input controller #2 (Switch Pro) to virtual X360 Controller in output slot #2
+2022-12-24 18:25:01.1348|INFO|Disassociated virtual X360 Controller in output slot #2 from input controller #2 (Switch Pro)
+2022-12-24 18:25:01.1348|INFO|Unplugging virtual X360 Controller from output slot #2
+2022-12-24 18:25:01.1348|INFO|Controller 2 was removed or lost connection. Charge the battery
+2022-12-24 18:25:03.1477|INFO|Found Controller: 06:6F:18:10:63:25 (BT) (Switch Pro).
+2022-12-24 18:25:03.4005|INFO|Plugging in virtual X360 controller (XInput slot #2) in output slot #2
+2022-12-24 18:25:03.4005|INFO|Associated input controller #2 (Switch Pro) to virtual X360 Controller in output slot #2
+2022-12-24 18:26:38.9259|INFO|Disassociated virtual X360 Controller in output slot #2 from input controller #2 (Switch Pro)
+2022-12-24 18:26:38.9259|INFO|Unplugging virtual X360 Controller from output slot #2
+2022-12-24 18:26:38.9259|INFO|Controller 2 was removed or lost connection. Charge the battery
+2022-12-24 18:26:43.5250|INFO|Found Controller: 06:6F:18:10:63:25 (BT) (Switch Pro).
+2022-12-24 18:26:44.2505|INFO|Plugging in virtual X360 controller (XInput slot #2) in output slot #2
+2022-12-24 18:26:44.2505|INFO|Associated input controller #2 (Switch Pro) to virtual X360 Controller in output slot #2
+2022-12-24 18:28:07.3410|INFO|Disassociated virtual X360 Controller in output slot #2 from input controller #2 (Switch Pro)
+2022-12-24 18:28:07.3410|INFO|Unplugging virtual X360 Controller from output slot #2
+2022-12-24 18:28:07.3410|INFO|Controller 2 was removed or lost connection. Charge the battery
+2022-12-24 18:28:11.5345|INFO|Found Controller: 06:6F:18:10:63:25 (BT) (Switch Pro).
+2022-12-24 18:28:12.1272|INFO|Plugging in virtual X360 controller (XInput slot #2) in output slot #2
+2022-12-24 18:28:12.1272|INFO|Associated input controller #2 (Switch Pro) to virtual X360 Controller in output slot #2
+2022-12-24 18:29:35.6636|INFO|Disassociated virtual X360 Controller in output slot #2 from input controller #2 (Switch Pro)
+2022-12-24 18:29:35.6636|INFO|Unplugging virtual X360 Controller from output slot #2
+2022-12-24 18:29:35.6636|INFO|Controller 2 was removed or lost connection. Charge the battery
+2022-12-24 18:29:44.1355|INFO|Found Controller: 06:6F:18:10:63:25 (BT) (Switch Pro).
+2022-12-24 18:29:45.0070|INFO|Plugging in virtual X360 controller (XInput slot #2) in output slot #2
+2022-12-24 18:29:45.0070|INFO|Associated input controller #2 (Switch Pro) to virtual X360 Controller in output slot #2
+2022-12-24 18:31:01.1801|INFO|Disassociated virtual X360 Controller in output slot #2 from input controller #2 (Switch Pro)
+2022-12-24 18:31:01.1801|INFO|Unplugging virtual X360 Controller from output slot #2
+2022-12-24 18:31:01.1801|INFO|Controller 2 was removed or lost connection. Charge the battery
+2022-12-24 18:31:05.5653|INFO|Found Controller: 06:6F:18:10:63:25 (BT) (Switch Pro).
+2022-12-24 18:31:06.0404|INFO|Plugging in virtual X360 controller (XInput slot #2) in output slot #2
+2022-12-24 18:31:06.0404|INFO|Associated input controller #2 (Switch Pro) to virtual X360 Controller in output slot #2
+2022-12-24 18:32:26.6343|INFO|Disassociated virtual X360 Controller in output slot #2 from input controller #2 (Switch Pro)
+2022-12-24 18:32:26.6343|INFO|Unplugging virtual X360 Controller from output slot #2
+2022-12-24 18:32:26.6343|INFO|Controller 2 was removed or lost connection. Charge the battery
+2022-12-24 18:32:34.6708|INFO|Found Controller: 06:6F:18:10:63:25 (BT) (Switch Pro).
+2022-12-24 18:32:36.6397|INFO|Plugging in virtual X360 controller (XInput slot #2) in output slot #2
+2022-12-24 18:32:36.6397|INFO|Associated input controller #2 (Switch Pro) to virtual X360 Controller in output slot #2
+2022-12-24 18:34:04.1993|INFO|Disassociated virtual X360 Controller in output slot #2 from input controller #2 (Switch Pro)
+2022-12-24 18:34:04.1993|INFO|Unplugging virtual X360 Controller from output slot #2
+2022-12-24 18:34:04.1993|INFO|Controller 2 was removed or lost connection. Charge the battery
+2022-12-24 18:34:07.3110|INFO|Found Controller: 06:6F:18:10:63:25 (BT) (Switch Pro).
+2022-12-24 18:34:07.6866|INFO|Plugging in virtual X360 controller (XInput slot #2) in output slot #2
+2022-12-24 18:34:07.6866|INFO|Associated input controller #2 (Switch Pro) to virtual X360 Controller in output slot #2
+2022-12-24 18:35:29.5369|INFO|Disassociated virtual X360 Controller in output slot #2 from input controller #2 (Switch Pro)
+2022-12-24 18:35:29.5369|INFO|Unplugging virtual X360 Controller from output slot #2
+2022-12-24 18:35:29.5369|INFO|Controller 2 was removed or lost connection. Charge the battery
+2022-12-24 18:35:31.7233|INFO|Found Controller: 06:6F:18:10:63:25 (BT) (Switch Pro).
+2022-12-24 18:35:32.0979|INFO|Plugging in virtual X360 controller (XInput slot #2) in output slot #2
+2022-12-24 18:35:32.0979|INFO|Associated input controller #2 (Switch Pro) to virtual X360 Controller in output slot #2
+2022-12-24 18:36:57.7309|INFO|Disassociated virtual X360 Controller in output slot #2 from input controller #2 (Switch Pro)
+2022-12-24 18:36:57.7309|INFO|Unplugging virtual X360 Controller from output slot #2
+2022-12-24 18:36:57.7309|INFO|Controller 2 was removed or lost connection. Charge the battery
+2022-12-24 18:37:00.1602|INFO|Found Controller: 06:6F:18:10:63:25 (BT) (Switch Pro).
+2022-12-24 18:37:00.7945|INFO|Plugging in virtual X360 controller (XInput slot #2) in output slot #2
+2022-12-24 18:37:00.7945|INFO|Associated input controller #2 (Switch Pro) to virtual X360 Controller in output slot #2
+2022-12-24 18:38:27.0163|INFO|User Session Ending
+2022-12-24 18:38:27.0252|INFO|Stopping Virtual Output Controllers
+2022-12-24 18:38:27.0252|INFO|Closing connection to ViGEmBus
+2022-12-24 18:38:27.0797|INFO|Disassociated virtual X360 Controller in output slot #1 from input controller #1 (DS4 v.2)
+2022-12-24 18:38:27.0797|INFO|Unplugging virtual X360 Controller from output slot #1

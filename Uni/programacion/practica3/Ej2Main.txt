@@ -1,0 +1,19 @@
+package com.mycompany.calculadora;
+import javax.swing.JOptionPane;
+
+public class Main {
+    public static void main(String[] args) {
+        int n1 = Integer.parseInt(JOptionPane.showInputDialog("Digite un numero: "));
+        int n2 = Integer.parseInt(JOptionPane.showInputDialog("Digite un numero: "));
+        
+        Calculadora cl = new Calculadora();
+        
+        int suma = cl.suma(n1,n2);
+        int resta = cl.resta(n1, n2);
+        int mult = cl.multiplicacion(n1, n2);
+        int div = cl.division(n1, n2);
+        
+        cl.motrarDatos(suma, resta, mult, div);
+        
+    }
+}

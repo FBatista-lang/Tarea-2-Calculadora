@@ -1,0 +1,57 @@
+package com.mycompany.persona;
+
+public class Persona {
+    //Atributos
+    private String nombre;
+    private String apellido;
+    private int edad;
+    private String sexo;
+    
+    //Metodos
+    
+    //Metodo Constructor
+    public Persona(String nombre, int _edad, String _apellido, String _sexo){
+        this.nombre = nombre;
+        this.apellido = _apellido;
+        this.edad = _edad;
+        this.sexo = _sexo;    
+    }
+    
+    public void mostrarDatos(){
+        System.out.println("El nombre es "+nombre);
+        System.out.println("El Apellido es "+apellido);
+        System.out.println("La edad es "+edad);
+        System.out.println("El sexo es "+sexo);
+    }
+
+    public String getNombre() {
+        return nombre;
+    }
+
+    public void setNombre(String nombre) {
+        this.nombre = nombre;
+    }
+
+
+    public String getApellido() {
+        return apellido;
+    }
+
+    public void setApellido(String apellido) {
+        this.apellido = apellido;
+    }
+
+    public int getEdad() {
+        return edad;
+    }
+
+    public void setEdad(int edad) {
+        this.edad = edad;
+    }
+
+    public String getSexo() {
+        return sexo;
+    }
+
+    public void setSexo(String sexo) {
+        this.sexo = sexo;
